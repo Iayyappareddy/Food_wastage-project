@@ -74,6 +74,11 @@ Created multiple visualizations to understand:
 - The analysis can support awareness campaigns, policy planning, and sustainability studies.
 
 ---
+## 🖼️ Dashboard Preview
+
+https://github.com/Iayyappareddy/Chustomer_Churn-project/tree/main/techno_project/images
+
+---
 
 ## ▶️ How to Run the Project
 
