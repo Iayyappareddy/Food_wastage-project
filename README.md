@@ -76,7 +76,7 @@ Created multiple visualizations to understand:
 ---
 ## 🖼️ Dashboard Preview
 
-https://github.com/Iayyappareddy/Chustomer_Churn-project/tree/main/techno_project/images
+https://github.com/Iayyappareddy/Food_wastage-project/tree/main/global%20food%20wast/images
 
 ---
 
