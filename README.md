@@ -77,6 +77,6 @@ Created multiple visualizations to understand:
 
 ## ▶️ How to Run the Project
 
-1. Clone this repository:
+1. Clone this repository:https://github.com/Iayyappareddy/Food_wastage-project
 2. Install required libraries:pandas numpy matplotlib seaborn
 3. Run the Python file
